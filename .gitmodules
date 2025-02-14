@@ -1,0 +1,6 @@
+[submodule "recommender-be"]
+	path = recommender-be
+	url = https://github.com/nidduzzi/recommender-be
+[submodule "recommender-fe"]
+	path = recommender-fe
+	url = https://github.com/nidduzzi/recommender-fe
